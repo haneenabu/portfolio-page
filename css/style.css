@@ -1,0 +1,27 @@
+body{
+  background-color: #fff2f2;
+}
+img{
+  display: block;
+  margin: auto;
+}
+#mySidenav{
+  background-color: #f9cccc;
+  float: left;
+  width: 12%;
+  padding-bottom: 100%;
+  padding-top: 10px;
+  padding-left: 30px;
+  position: fixed;
+  /*padding-right: 40px;*/
+}
+#mySidenav img{
+  float: left;
+  padding-right: 30px;
+  padding-bottom: 8px;
+}
+#nameContainer{
+  /*width: 90%;*/
+  text-align: center;
+  /*margin-left: 40px;*/
+}
