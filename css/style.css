@@ -14,6 +14,13 @@ h1{
 .col-md-3 ol{
   text-align: left;
 }
+.col-md-3 img{
+  width: 100px;
+  height: 60px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+
+}
 #mySidenav{
   background-color: #f9cccc;
   float: left;
