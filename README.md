@@ -12,7 +12,7 @@ _This is a site that will hightlight my project on the main page (index.html) an
 
 * _log into your computer_
 * _open browser_
-* _type in this link https://haneenabu.github.io/portfolio-page _
+* _type in this link https://haneenabu.github.io/portfolio-page_
 * _select enter_
 * _select "About Me" or "My Interests" links in the sidebar on the left to see those pages_
 
